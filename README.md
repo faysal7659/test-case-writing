@@ -1,6 +1,6 @@
 # Ajkerdeal.com test case
 
-Ajkerdeal is a shoping type website.It sell different type of product
+Ajkerdeal is a shopping type website.It sell different type of product
 
 
 ## Deployment
